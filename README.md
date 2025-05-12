@@ -1,16 +1,16 @@
-# CRA + TypeScript + Tailwind + ESLint + Prettier Template
+# React Matrix Table Test Task
 
-This is a ready-to-use React project setup with:
+This project is a technical test task implemented with React + TypeScript + React Context + TailwindCSS.
 
-- Create React App + TypeScript
-- Tailwind CSS
-- ESLint + Prettier (with VS Code integration)
-- Clean file structure
+## 📊 Features
 
-## Usage
-
-1. Click **"Use this template"** on GitHub
-2. Clone your new repo
-3. Run `npm install` and `npm start`
-
-Happy coding!
+- Dynamic matrix table with custom settings.
+- Cells with random values (3-digit numbers).
+- Row sums, column percentiles (60th percentile).
+- Ability to increment cell values on click.
+- Highlight nearest X cells on hover.
+- Heatmap visualization for each row.
+- Add / Remove rows functionality.
+- Responsive adaptive grid layout.
+- Clean dark theme UI with TailwindCSS.
+- No external UI libraries, Redux, CSS-in-JS.
